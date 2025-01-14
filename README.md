@@ -7,8 +7,8 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-ec63a1?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/driellymoraes_29)
 
 ### Sobre mim
-   📚 Em constante busca por novos aprendizados, desafios e experiências!
-   👩‍💻 Entusiasta de dados, gosto de explorar diferentes análises e linguagens, buscando transformar ideias em soluções reais e criativas. 
+   📚 Em constante busca por novos aprendizados, desafios e experiências!   
+   👩‍💻 Entusiasta de dados, gosto de explorar diferentes análises e linguagens, buscando transformar ideias em soluções reais e criativas.    
    🎮 Grande fã de jogos, e isso foi a motivação para seguir a área tech :) 
    
 ### Habilidades
