@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-ec63a1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driellymoraes/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-ec63a1?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511997372911) [![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/drimoraes)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-ec63a1?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/driellymoraes_29)
 
 ### Sobre mim
    📚 Em constante busca por novos aprendizados, desafios e experiências!   
